@@ -13,6 +13,17 @@ description: 'Kyverna Therapeutics (Nasdaq: KYTX) is a patient-centered, clinica
   Ingenui-T rapid manufacturing platform. Kyverna is a biopharmaceutical operating company
   and publishes no public developer API, SDK, or developer portal; this profile tracks
   its public web, corporate and investor surface within the API Evangelist network.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
