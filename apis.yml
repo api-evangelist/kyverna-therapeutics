@@ -51,7 +51,7 @@ tags:
 - Biotech Therapeutics
 - Biotechnology
 - Cell Therapy
-- Cart
+- CAR-T
 - Autoimmune Disease
 - Immunology
 - Neurology
@@ -120,3 +120,5 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-tags-removed:
+- Cart
